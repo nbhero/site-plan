@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(5, 38, 100);
+}
+#logo-link img{
+    width: 70px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+#nav-menu{
+    text-align: end;
+}
+#nav-menu a{
+    color: white;
+    margin: 15px;
+    font-size: 1.5em;
+}
+#nav-menu a:hover{
+    color: #2584ff;
+}
+#content{
+    text-align: center;
+    margin: 0 auto;
+}
+.project img{
+    padding: 20px;
+    width: 45%;
+}
+.product-container{
+    background-color: bisque;
+}
+.product img{
+    width: 100px;
+}
+.social{
+    padding: 30px;
+}
+.social img{
+    width: 50px;
+}
+.social a{
+    margin: 15px;
+}
+.aboutme-imgs img{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    float: left;
+}
